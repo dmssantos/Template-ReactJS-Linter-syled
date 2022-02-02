@@ -1,5 +1,5 @@
-
 function App() {
+  // prettier-ignore
   return (
     <div>
       Hello World
